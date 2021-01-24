@@ -1,4 +1,4 @@
-<p align='center'><a href="https://instagram.com/fahmicog"><img height="200" src="https://github.com/fahmicog/fahmicog/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/fahmicog"><img height="200" src="https://github.com/fahmicog/fahmicog/blob/main/fahmicog.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi there 👋 </h1>
 
