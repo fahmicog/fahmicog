@@ -1,7 +1,3 @@
-[![Fahmi Cog](https://github.com/fahmicog/fahmicog/blob/main/Background.jpg)](https://github.com/fahmicogm)
-
-___
-
 <p align='center'><a href="https://instagram.com/fahmicog"><img height="200" src="https://github.com/fahmicog/fahmicog/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi there 👋 </h1>
@@ -48,8 +44,8 @@ ___
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCKnzdl1cYOqTnmKvDjvRaOA"><img src="https://img.shields.io/badge/YouTube-Heikal%20Syah%20Shiddiq-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCKnzdl1cYOqTnmKvDjvRaOA" /></a>
-  <a href="mailto:fahmicog@gmail.com"><img src="https://img.shields.io/badge/Gmail-slavyan@secret.fyi-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:fahmicog@gmail.com" /></a>
+  <a href="https://www.youtube.com/channel/UCKnzdl1cYOqTnmKvDjvRaOA"><img src="https://img.shields.io/badge/Fahmi%20Cog-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCKnzdl1cYOqTnmKvDjvRaOA" /></a>
+  <a href="mailto:fahmicog@gmail.com"><img src="https://img.shields.io/badge/Gmail-fahmicog@gmail.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:fahmicog@gmail.com" /></a>
   <a href="https://twitter.com/fahmicog"><img src="https://img.shields.io/twitter/follow/fahmicog?logo=twitter&style=for-the-badge" /></a> <br>
   <img src="https://komarev.com/ghpvc/?username=fahmicog&label=VIEWS&style=flat-square&color=orange" />
 </p>
