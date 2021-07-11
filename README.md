@@ -3,8 +3,11 @@
 <a href="https://instagram.com/fahmicog">
   <img align="left" alt="Fahmi Hdytllah | Instagram" width="25px" src="https://github.com/fahmicog/fahmicog/raw/main/assets/instagram.png" />
 </a>
-<a href="https://instagram.com/fahmicog">
-  <img align="left" alt="Fahmi Hdytllah | Instagram" width="25px" src="https://github.com/fahmicog/fahmicog/raw/main/assets/youtube.png" />
+<a href="https://www.youtube.com/c/FahmiCog">
+  <img align="left" alt="Fahmi Hdytllah | Youtube" width="25px" src="https://github.com/fahmicog/fahmicog/raw/main/assets/youtube.png" />
+</a>
+<a href="https://www.facebook.com/fahmicoeg">
+  <img align="left" alt="Fahmi Hdytllah | Facebook" width="25px" src="https://github.com/fahmicog/fahmicog/raw/main/assets/facebook.png" />
 </a>
 
 <br />
@@ -16,6 +19,7 @@ Hi, I'm Fahmi Hidayatulloh, a passionate self-taught Front-End developer from In
 - 🌱 I’m currently learning Javascript and Kotlin
 - 👯 I’m looking to collaborate on [bot-whatsapp](https://github.com/fahmicog/fambot)
 - 💬 Ask me about anything [here](https://github.com/fahmicog/fahmicog/issues)
+
 
 **Languages and Tools:**  
 
